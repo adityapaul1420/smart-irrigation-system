@@ -128,6 +128,4 @@ smart-irrigation-system/
 - Design a compact PCB and enclosure.
 - Add fault detection and a documented test plan.
 
-## Author
 
-Add your name, project date, and demonstration video link here before publishing.
