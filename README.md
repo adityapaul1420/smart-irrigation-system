@@ -80,6 +80,9 @@ Use a standard 5V USB output from the power bank. Do not use a fast-charge 9V/12
 7. Test the relay with the pump still disconnected.
 8. Only after confirming correct switching, connect the pump supply through COM and NO.
 
+   <img width="1600" height="1200" alt="WhatsApp Image 2026-11-05 at 10 09 51 PM" src="https://github.com/user-attachments/assets/6d1f7248-396e-41ae-ae19-88624ac3bb23" />
+
+
 ### Calibration
 
 This code assumes the sensor reading is **higher when dry** and lower when wet. Verify this with your own module. If your readings move in the opposite direction, reverse the comparisons in the firmware.
