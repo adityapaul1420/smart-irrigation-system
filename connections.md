@@ -22,6 +22,8 @@ Relay NC: unused
 ```
 
 The pump supply is separate from the Arduino supply. The relay's contact side switches the pump supply; do not connect the pump supply positive to the Arduino.
+<img width="1385" height="753" alt="image" src="https://github.com/user-attachments/assets/a9e95fb8-acad-4f01-b082-3ad34c496092" />
+
 
 ## Notes
 
